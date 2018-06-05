@@ -1,0 +1,29 @@
+{
+  "name": "graphu",
+  "version": "1.0.0",
+  "description": "A small library that stores nodes in a graph in any relationalff.....",
+  "main": "index.js",
+  "scripts": {
+    "test": "what"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosspi/graphu.git"
+  },
+  "keywords": [
+    "many",
+    "words",
+    "the",
+    "represent",
+    "things",
+    "in",
+    "the",
+    "world"
+  ],
+  "author": "...",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosspi/graphu/issues"
+  },
+  "homepage": "https://github.com/rosspi/graphu#readme"
+}
